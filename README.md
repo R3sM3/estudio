@@ -35,4 +35,5 @@ https://pages.awscloud.com/LATAM-event-OE-pm-es-2023-reg.html?trk=2f745f19-5d25-
 Build your future in the AWS Cloud.
 https://www.aws.training/?src=training
 
-
+Python, YAML, and Kubernetes — The Art of Mastering Configuration
+https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62
