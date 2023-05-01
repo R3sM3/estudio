@@ -22,3 +22,6 @@ https://github.com/devicons/devicon
 Presentarse
 https://www.talklanguages.es/blog/presentarse-en-ingles-ambito-laboral/
 https://whatsup.es/blog/como-presentarse-en-ingles-profesionalmente
+
+Cursos AWS
+https://pages.awscloud.com/LATAM-event-OE-pm-es-2023-reg.html?trk=2f745f19-5d25-4507-8088-a1b84e5eb174&sc_channel=psm&li_fat_id=bb285584-0e62-43aa-b58f-dfbfbedfdc24
