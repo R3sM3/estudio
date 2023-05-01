@@ -1,5 +1,8 @@
 # estudio
 
+Complete Jenkins CI/CD Project
+https://medium.com/@sayalishewale12/complete-jenkins-ci-cd-project-a2144b0b1cd2
+
 Kubernetes YAML Tips
 https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81
 
@@ -25,3 +28,5 @@ https://whatsup.es/blog/como-presentarse-en-ingles-profesionalmente
 
 Cursos AWS
 https://pages.awscloud.com/LATAM-event-OE-pm-es-2023-reg.html?trk=2f745f19-5d25-4507-8088-a1b84e5eb174&sc_channel=psm&li_fat_id=bb285584-0e62-43aa-b58f-dfbfbedfdc24
+
+
