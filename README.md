@@ -43,3 +43,7 @@ https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-
 
 Python YAML
 https://zetcode.com/python/yaml/
+
+
+Learn Bash error handling by example
+https://www.redhat.com/sysadmin/bash-error-handling
