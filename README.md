@@ -47,3 +47,11 @@ https://zetcode.com/python/yaml/
 
 Learn Bash error handling by example
 https://www.redhat.com/sysadmin/bash-error-handling
+
+
+A Step-by-Step Guide for your first 90 days as a Senior DevOps Engineer
+https://medium.com/@alexrozdolskiy/a-step-by-step-guide-for-your-first-90-days-as-a-senior-devops-engineer-90b043cd764b
+
+
+Kubernetes From Zero to Hero
+https://startquicktech.medium.com/kubernetes-from-zero-to-hero-1-docker-basics-83bd28641106
