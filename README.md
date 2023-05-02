@@ -44,6 +44,9 @@ https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-
 Python YAML<br>
 https://zetcode.com/python/yaml/
 
+Python YAML: How to Load, Read, and Write YAML<br>
+https://python.land/data-processing/python-yaml
+
 
 Learn Bash error handling by example<br>
 https://www.redhat.com/sysadmin/bash-error-handling
