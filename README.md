@@ -51,6 +51,11 @@ https://python.land/data-processing/python-yaml
 Learn Bash error handling by example<br>
 https://www.redhat.com/sysadmin/bash-error-handling
 
+Advanced Linux Shell Scripting
+https://medium.com/@sayalishewale12/advanced-linux-shell-scripting-fcfcc62bfd37
+
+
+
 
 A Step-by-Step Guide for your first 90 days as a Senior DevOps Engineer<br>
 https://medium.com/@alexrozdolskiy/a-step-by-step-guide-for-your-first-90-days-as-a-senior-devops-engineer-90b043cd764b
