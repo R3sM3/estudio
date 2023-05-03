@@ -52,7 +52,7 @@ Learn Bash error handling by example<br>
 https://www.redhat.com/sysadmin/bash-error-handling
 
 <h2>Advanced Linux Shell Scripting</h2>
-https://medium.com/@sayalishewale12/advanced-linux-shell-scripting-fcfcc62bfd37
+https://medium.com/@sayalishewale12/advanced-linux-shell-scripting-fcfcc62bfd37<br><br>
 
 
 
