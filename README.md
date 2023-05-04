@@ -1,5 +1,8 @@
 # estudio
 
+#Learning how an ingress controller works by building one in bash<br>
+https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699
+
 Complete Jenkins CI/CD Project<br>
 https://medium.com/@sayalishewale12/complete-jenkins-ci-cd-project-a2144b0b1cd2
 
