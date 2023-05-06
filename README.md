@@ -3,6 +3,9 @@
 Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
 https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1
 
+Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
+https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556
+
 Learning how an ingress controller works by building one in bash<br>
 https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699
 
