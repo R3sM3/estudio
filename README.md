@@ -6,6 +6,9 @@ https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79
 Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
 https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556
 
+DevOps Project: CI/CD Through Git, Jenkins, and Tomcat<br>
+https://medium.com/@codewithmuh/devops-project-ci-cd-through-git-jenkins-and-tomcat-9858d408e603
+
 Learning how an ingress controller works by building one in bash<br>
 https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699
 
