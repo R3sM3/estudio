@@ -1,5 +1,8 @@
 <h1>Paginas interesantes para estudiar</h1>
 
+Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
+https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1
+
 Learning how an ingress controller works by building one in bash<br>
 https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699
 
