@@ -1,4 +1,5 @@
 <h1>Paginas interesantes para estudiar</h1>
+<br><br>
 
 Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
 https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1
