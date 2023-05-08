@@ -7,6 +7,8 @@ https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79
 Project-5: Continuous Integration Using jenkins, Nexus, Sonarqube and Slack<br>
 https://medium.com/@osomudeyazudonu/project-5-continuous-integration-using-jenkins-nexus-sonarqube-and-slack-d68c4006d71<br>
 https://medium.com/@tobyadu/continuous-integration-using-jenkins-nexus-sonarqube-and-slack-21a30755b94b<br>
+https://medium.com/@abfongang/devops-project-9-continuous-integration-using-jenkins-and-tools-nexus-sonarqube-slack-8d6c83637c56
+
 
 Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
 https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556
