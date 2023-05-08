@@ -4,6 +4,9 @@
 Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
 https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1
 
+Project-5: Continuous Integration Using jenkins, Nexus, Sonarqube and Slack<br>
+https://medium.com/@osomudeyazudonu/project-5-continuous-integration-using-jenkins-nexus-sonarqube-and-slack-d68c4006d71
+
 Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
 https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556
 
