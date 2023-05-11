@@ -1,9 +1,9 @@
 <h1>Paginas interesantes para estudiar</h1>
 <br>
 Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
-https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1
+https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1<br><br>
 
-Continuous Integration Using jenkins, Nexus, Sonarqube and Slack<br>
+Continuous Integration Using jenkins, Nexus, Sonarqube and Slack<br><br>
 https://medium.com/@osomudeyazudonu/project-5-continuous-integration-using-jenkins-nexus-sonarqube-and-slack-d68c4006d71<br><br>
 https://medium.com/@tobyadu/continuous-integration-using-jenkins-nexus-sonarqube-and-slack-21a30755b94b<br><br>
 https://medium.com/@abfongang/devops-project-9-continuous-integration-using-jenkins-and-tools-nexus-sonarqube-slack-8d6c83637c56
