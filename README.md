@@ -16,10 +16,10 @@ Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
 https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556<br>
 
 DevOps Project: CI/CD Through Git, Jenkins, and Tomcat<br>
-https://medium.com/@codewithmuh/devops-project-ci-cd-through-git-jenkins-and-tomcat-9858d408e603
+https://medium.com/@codewithmuh/devops-project-ci-cd-through-git-jenkins-and-tomcat-9858d408e603<br>
 
 Learning how an ingress controller works by building one in bash<br>
-https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699
+https://medium.com/@danielepolencic/learning-how-an-ingress-controller-works-by-building-one-in-bash-ac3929f7699<br>
 
 Complete Jenkins CI/CD Project<br>
 https://medium.com/@sayalishewale12/complete-jenkins-ci-cd-project-a2144b0b1cd2
