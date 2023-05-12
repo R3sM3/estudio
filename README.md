@@ -9,11 +9,11 @@ https://medium.com/@tobyadu/continuous-integration-using-jenkins-nexus-sonarqube
 https://medium.com/@abfongang/devops-project-9-continuous-integration-using-jenkins-and-tools-nexus-sonarqube-slack-8d6c83637c56
 
 How To Create a Multibranch Pipeline in Jenkins using JenkinsFile
-https://medium.com/@DevOpsfreak/creating-a-multibranch-pipeline-in-jenkins-using-jenkinsfile-95e32bad47b8
+https://medium.com/@DevOpsfreak/creating-a-multibranch-pipeline-in-jenkins-using-jenkinsfile-95e32bad47b8<br>
 
 
 Jenkins Pipeline — Jfrog Artifactory and Jenkins Integration<br>
-https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556
+https://medium.com/@nanditasahu031/jenkins-pipeline-jfrog-artifactory-and-jenkins-integration-4fed3fc8d556<br>
 
 DevOps Project: CI/CD Through Git, Jenkins, and Tomcat<br>
 https://medium.com/@codewithmuh/devops-project-ci-cd-through-git-jenkins-and-tomcat-9858d408e603
