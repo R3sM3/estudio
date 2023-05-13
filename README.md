@@ -70,7 +70,11 @@ Python YAML<br>
 https://zetcode.com/python/yaml/
 
 Python YAML: How to Load, Read, and Write YAML<br>
-https://python.land/data-processing/python-yaml
+https://python.land/data-processing/python-yaml<br>
+
+
+Working With YAML File Format in Python<br>
+https://medium.com/p/328a261b93de<br>
 
 
 Learn Bash error handling by example<br>
