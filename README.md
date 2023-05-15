@@ -45,7 +45,9 @@ Jenkins Pipeline Tutorial<br>
 https://media.licdn.com/dms/document/D4D1FAQE_pH5E3_W-OQ/feedshare-document-pdf-analyzed/0/1682532264309?e=1683158400&v=beta&t=F8nROwu-G8l2mIg2YeFmeYze8jtmpFBsQCIE5wAsBIY
 
 
-ICONOS <br>
+<h2>ICONOS</h2>
+
+Iconos<br>
 https://github.com/devicons/devicon
 
 Presentarse<br>
@@ -53,7 +55,7 @@ https://www.talklanguages.es/blog/presentarse-en-ingles-ambito-laboral/<br>
 https://whatsup.es/blog/como-presentarse-en-ingles-profesionalmente
 
 
-AWS
+<h2>AWS</h2>
 
 Cursos AWS<br>
 https://pages.awscloud.com/LATAM-event-OE-pm-es-2023-reg.html?trk=2f745f19-5d25-4507-8088-a1b84e5eb174&sc_channel=psm&li_fat_id=bb285584-0e62-43aa-b58f-dfbfbedfdc24
