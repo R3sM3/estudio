@@ -62,7 +62,7 @@ Build your future in the AWS Cloud.<br>
 https://www.aws.training/?src=training
 
 
-Python
+<h2>Python</h2>
 
 Python, YAML, and Kubernetes — The Art of Mastering Configuration<br>
 https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62<br>
@@ -81,7 +81,7 @@ https://medium.com/p/328a261b93de<br>
 Learn Bash error handling by example<br>
 https://www.redhat.com/sysadmin/bash-error-handling
 
-<h2>Advanced Linux Shell Scripting</h2>
+Advanced Linux Shell Scripting<br>
 https://medium.com/@sayalishewale12/advanced-linux-shell-scripting-fcfcc62bfd37<br><br>
 
 
