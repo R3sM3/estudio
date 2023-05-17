@@ -93,7 +93,7 @@ Advanced Linux Shell Scripting<br>
 https://medium.com/@sayalishewale12/advanced-linux-shell-scripting-fcfcc62bfd37<br><br>
 
 
-<h2>DEvOps</h2>
+<h2>DevOps</h2>
 
 A Step-by-Step Guide for your first 90 days as a Senior DevOps Engineer<br>
 https://medium.com/@alexrozdolskiy/a-step-by-step-guide-for-your-first-90-days-as-a-senior-devops-engineer-90b043cd764b
