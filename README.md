@@ -32,7 +32,9 @@ Complete Jenkins CI/CD Project<br>
 https://medium.com/@sayalishewale12/complete-jenkins-ci-cd-project-a2144b0b1cd2
 
 
-<h3>Advance Git & GitHub for DevOps Engineers</h3>
+<h2>Advance Git & GitHub for DevOps Engineers</h2>
+
+Advance Git & GitHub for DevOps Engineers<br>
 https://medium.com/@sayalishewale12/advance-git-github-for-devops-engineers-ce8f8b9b48a2<br>
 
 Kubernetes YAML Tips<br>
