@@ -108,4 +108,10 @@ https://medium.com/@alexrozdolskiy/a-step-by-step-guide-for-your-first-90-days-a
 
 
 Kubernetes From Zero to Hero<br>
-https://startquicktech.medium.com/kubernetes-from-zero-to-hero-1-docker-basics-83bd28641106
+https://startquicktech.medium.com/kubernetes-from-zero-to-hero-1-docker-basics-83bd28641106<br>
+
+<h2>Ansible</h2>
+Ansible Tutorial for DevOps Engineers (step by step)<br>
+https://medium.com/@manojaero3/ansible-tutorial-for-devops-engineers-step-by-step-2469795028ac
+
+
