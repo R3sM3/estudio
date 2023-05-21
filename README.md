@@ -2,6 +2,7 @@
 <br>
 
 <h2>Proyectos</h2>
+<br>
 DevOps CI/CD project using Docker, Jenkins, Ansible & Minikube for PoC/Development<br>
 https://medium.com/@mubin.khalife/devops-ci-cd-project-using-docker-jenkins-ansible-minikube-for-poc-development-62ba2da07a92<br><br>
 
