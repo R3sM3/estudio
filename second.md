@@ -8,6 +8,9 @@ https://medium.com/@DevOpsfreak/how-to-configure-jenkins-slave-nodes-by-launchin
 Build CI/CD Multibranch Pipeline with Jenkins and Kubernetes<br>
 https://medium.com/@peiruwang/build-ci-cd-multibranch-pipeline-with-jenkins-and-kubernetes-637de560d55a<br>
 
+User Handbook - Jenkins - Multibranches<br>
+https://www.jenkins.io/doc/book/pipeline/multibranch/
+
 <h2>Sonarqube</h2>
 
 SonarQube Documentation<br>
