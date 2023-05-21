@@ -10,5 +10,8 @@ https://medium.com/@DevOpsfreak/how-to-configure-jenkins-slave-nodes-by-launchin
 SonarQube Documentation<br>
 https://docs.sonarqube.org/latest/<br>
 
+Welcome to the Sonar Community!
+https://community.sonarsource.com/
+
 How to create SonarQube Portfolio<br>
 https://medium.com/@knoldus/how-to-create-sonarqube-portfolio-127c77f98a51
