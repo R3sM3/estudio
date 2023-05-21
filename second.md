@@ -22,6 +22,11 @@ https://community.sonarsource.com/
 How to create SonarQube Portfolio<br>
 https://medium.com/@knoldus/how-to-create-sonarqube-portfolio-127c77f98a51
 
+<h2>Black Duck</h2>
+
+Black Duck<br>
+https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html<br>
+
 <h2>Cursos Gratuitos</h2>
 
 My Favorite Free Courses to Learn Maven, Jenkins, and Docker in 2023<br>
