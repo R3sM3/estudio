@@ -9,7 +9,7 @@ Build CI/CD Multibranch Pipeline with Jenkins and Kubernetes<br>
 https://medium.com/@peiruwang/build-ci-cd-multibranch-pipeline-with-jenkins-and-kubernetes-637de560d55a<br>
 
 User Handbook - Jenkins - Multibranches<br>
-https://www.jenkins.io/doc/book/pipeline/multibranch/<br>
+https://www.jenkins.io/doc/book/pipeline/multibranch/<br><br>
 
 <h2>Sonarqube</h2>
 
@@ -20,12 +20,12 @@ Welcome to the Sonar Community!
 https://community.sonarsource.com/
 
 How to create SonarQube Portfolio<br>
-https://medium.com/@knoldus/how-to-create-sonarqube-portfolio-127c77f98a51
+https://medium.com/@knoldus/how-to-create-sonarqube-portfolio-127c77f98a51<br><br>
 
 <h2>Black Duck</h2>
 
 Black Duck<br>
-https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html<br>
+https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html<br><br>
 
 <h2>Cursos Gratuitos</h2>
 
