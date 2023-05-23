@@ -7,7 +7,7 @@ DevOps CI/CD project using Docker, Jenkins, Ansible & Minikube for PoC/Developme
 https://medium.com/@mubin.khalife/devops-ci-cd-project-using-docker-jenkins-ansible-minikube-for-poc-development-62ba2da07a92<br><br>
 
 <h2>Groovy + Jenkins</h2>
-https://medium.com/tag/groovy-jenkins
+https://medium.com/tag/groovy-jenkins<br><br>
 
 <h2>Jenkins</h2>
 
