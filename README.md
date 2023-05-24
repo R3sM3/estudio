@@ -10,7 +10,7 @@ https://medium.com/@mubin.khalife/devops-ci-cd-project-using-docker-jenkins-ansi
 https://medium.com/tag/groovy-jenkins<br><br>
 
 <h2>Jenkins</h2>
-
+<br>
 <h3>REVISAR</h3>
 Step-by-Step Guide to Implementing a Declarative Pipeline with Five Stages and an Approval Process<br>
 https://medium.com/@DevOpsfreak/step-by-step-guide-to-implementing-a-declarative-pipeline-with-five-stages-and-an-approval-process-9d11882b82d6<br><br>
