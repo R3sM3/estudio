@@ -25,7 +25,7 @@ https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79
 Continuous Integration Using jenkins, Nexus, Sonarqube and Slack<br><br>
 https://medium.com/@osomudeyazudonu/project-5-continuous-integration-using-jenkins-nexus-sonarqube-and-slack-d68c4006d71<br><br>
 https://medium.com/@tobyadu/continuous-integration-using-jenkins-nexus-sonarqube-and-slack-21a30755b94b<br><br>
-https://medium.com/@abfongang/devops-project-9-continuous-integration-using-jenkins-and-tools-nexus-sonarqube-slack-8d6c83637c56
+https://medium.com/@abfongang/devops-project-9-continuous-integration-using-jenkins-and-tools-nexus-sonarqube-slack-8d6c83637c56<br>
 
 How To Create a Multibranch Pipeline in Jenkins using JenkinsFile
 https://medium.com/@DevOpsfreak/creating-a-multibranch-pipeline-in-jenkins-using-jenkinsfile-95e32bad47b8<br>
