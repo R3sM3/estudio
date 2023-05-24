@@ -16,7 +16,7 @@ Step-by-Step Guide to Implementing a Declarative Pipeline with Five Stages and a
 https://medium.com/@DevOpsfreak/step-by-step-guide-to-implementing-a-declarative-pipeline-with-five-stages-and-an-approval-process-9d11882b82d6<br><br>
 
 Complete Jenkins CI/CD Project<br>
-https://medium.com/@awseng12/complete-jenkins-ci-cd-project-aa4aec3a383a
+https://medium.com/@awseng12/complete-jenkins-ci-cd-project-aa4aec3a383a<br>
 
 Deploying Java-based applications using Maven, SonarQube, Jenkins, Argo CD, and finally deployment on Amazon EKS<br>
 https://blog.devops.dev/real-time-industry-grade-project-using-gitops-argo-cd-79d75a63d0c1<br><br>
