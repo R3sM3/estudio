@@ -1,9 +1,9 @@
 <h1>Es es un cuarto archivo</h1>
 
-Account for	Explicar o justificar
+Account for	Explicar o justificar<br>
 Act on	Actuar según
-Add up	Sumar
-Back up	Respaldar
+Add 	Sumar
+Back up	
 Bargain for	Contar con, esperar
 Bear with	Tener paciencia
 Break down	Desglosar
