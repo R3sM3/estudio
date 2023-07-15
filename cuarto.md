@@ -1,13 +1,13 @@
 <h1>Es es un cuarto archivo</h1>
 
 Account for	Explicar o justificar<br>
-Act on	Actuar según
-Add 	Sumar
-Back up	
-Bargain for	Contar con, esperar
-Bear with	Tener paciencia
-Break down	Desglosar
-Bring about	Provocar
+Act on	Actuar según<br>
+Add 	Sumar<br>
+Back up	<br>
+Bargain for	Contar con, esperar<br>
+Bear with	Tener paciencia<br>
+Break down	Desglosar<br>
+Bring about	Provocar<br>
 Call off	Cancelar
 Carry out	Realizar
 Catch up	Ponerse al día
