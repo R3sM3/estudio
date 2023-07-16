@@ -8,27 +8,7 @@ Bargain for	Contar con, esperar<br>
 Bear with	Tener paciencia<br>
 Break down	Desglosar<br>
 Bring about	Provocar<br>
-Call off	Cancelar
-Carry out	Realizar
-Catch up	Ponerse al día
-Check out	Revisar, comprobar
-Clear up	Aclarar
-Come across	Encontrarse con
-Come up with	Proponer, sugerir
-Count on	Contar con
-Cut back	Reducir
-Deal with	Tratar con
-Die down	Disminuir
-Do without	Prescindir de
-Draw up	Elaborar, redactar
-Fill in	Rellenar
-Find out	Descubrir
-Get along	Llevarse bien
-Give in	Ceder
-Go over	Repasar
-Hang on	Esperar
-Hold off	Retrasar
-Keep up	Mantenerse al día
+
 Lay off	Despedir
 Look into	Investigar
 Make up	Componer, inventar
