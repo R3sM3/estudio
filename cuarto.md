@@ -7,5 +7,3 @@ Back up	<br>
 Bargain for	Contar con, esperar<br>
 Bear with	Tener paciencia<br>
 Break down	Desglosar<br>
-Bring about	Provocar<br>
-
