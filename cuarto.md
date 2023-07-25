@@ -3,6 +3,5 @@
 Account for	Explicar o justificar<br>
 Act on	Actuar según<br>
 Add 	Sumar<br>
-Back up	<br>
-Bargain for	Contar con, esperar<br>
+
 
